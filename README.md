@@ -4,14 +4,18 @@ Hi 👋 My name is Alena Batitskaia
 Web Developer, Educator, Speaker
 --------------------------------
 
-I'm a web developer last 8+ years. Active educator. Assist people to become developers. Like to translate technical articles from EN to RU to ruin language borders and make knowledges easy accessible. Team lead of @doka-guide Google Developer Expert for Web
+I'm a web developer last 8+ years. Active educator. Assist people to become developers. Like to translate technical articles from EN to RU to ruin language borders and make knowledges easy accessible. 
+
+Team lead of [@doka-guide](https://github.com/doka-guide)
+
+[Google Developer Expert for Web](https://developers.google.com/community/experts/directory/profile/profile-alena-batitskaia?hl=en)
 
 * 🌍  I'm based in Tbilisi, Georgia
 * ✉️  You can contact me at [batickaya.a@gmail.com](mailto:batickaya.a@gmail.com)
 * 🚀  I'm currently working on [Дока](http://doka.guide/)
 * 🧠  I'm learning Everything!
-* 🤝  I'm open to collaborating on Education projects, programming schools, Open Source resources
-* ⚡  I strongly love aviation, daydream of become a pilot
+* 🤝  I'm open to collaborating on Education projects, IT schools, Open Source resources
+* ✈️  I strongly love aviation, daydream of become a pilot
 
 
 ### Socials
