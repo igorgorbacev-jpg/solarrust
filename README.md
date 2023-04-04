@@ -10,7 +10,7 @@ Team lead of [@doka-guide](https://github.com/doka-guide)
 
 [Google Developer Expert for Web](https://developers.google.com/community/experts/directory/profile/profile-alena-batitskaia?hl=en)
 
-* 🌍  I'm based in Tbilisi, Georgia
+* 🌍  I'm based in London, England
 * ✉️  You can contact me at [batickaya.a@gmail.com](mailto:batickaya.a@gmail.com)
 * 🚀  I'm currently working on [Дока](http://doka.guide/)
 * 🧠  I'm learning Everything!
