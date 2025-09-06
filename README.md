@@ -5,7 +5,7 @@ Web Developer, Educator, Speaker
 --------------------------------
 
 I'm a web developer last 8+ years. Active educator. Assist people to become developers. Like to translate technical articles from EN to RU to ruin language borders and make knowledges easy accessible. 
-d
+
 Team lead of [@doka-guide](https://github.com/doka-guide)
 
 [Google Developer Expert for Web](https://developers.google.com/community/experts/directory/profile/profile-alena-batitskaia?hl=en)
